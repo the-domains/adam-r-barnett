@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Adam R Barnett]]></title>
         <description><![CDATA[Adam R Barnett]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/adam-r-barnett/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 03:29:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Dec 2015 04:03:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/adam-r-barnett/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[#Carnival]]></title>
+            <description><![CDATA[<article><h1>#Carnival</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9529e32f770701c75fca7efa1c24e903cb8f392.jpg"></article>]]></description>
+            <link>https://thegrid.ai/adam-r-barnett/carnival/index.html</link>
+            <guid isPermaLink="false">35e33008-4ec5-49f4-ba75-80035ba67ffd</guid>
+            <pubDate>Sat, 12 Dec 2015 04:03:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[#Summer Vibes]]></title>
-            <description><![CDATA[<article><h1>#Summer Vibes</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a546c7362db5077dc7ccd3110dc5dad9207fbe07.jpg"></article>]]></description>
-            <link>undefinedsummer-vibes/index.html</link>
+            <description><![CDATA[<article><h1>#Summer Vibes</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/982ceb1887d6415b7e0e2747db632ed27d751fec.jpg"></article>]]></description>
+            <link>https://thegrid.ai/adam-r-barnett/summer-vibes/index.html</link>
             <guid isPermaLink="false">596bdb7e-fd89-458a-975b-13f8a2da891e</guid>
             <pubDate>Sat, 12 Dec 2015 03:29:35 GMT</pubDate>
         </item>
