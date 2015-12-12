@@ -1,7 +1,7 @@
 name: Adam R Barnett
 favicon: null
-layout_spectrum: 0.4178463099524379
-typography_spectrum: 0.20676227426156402
+layout_spectrum: 0.92358
+typography_spectrum: 0.34074
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#3A6EA5'
     - '#004E98'
   brandStrength: 0.17970318696461618
-  lightness: 0.766168121015653
-  saturation: 0.0745669724419713
-  rhythmicContrast: 0.5469787777401507
+  lightness: 0.375
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
